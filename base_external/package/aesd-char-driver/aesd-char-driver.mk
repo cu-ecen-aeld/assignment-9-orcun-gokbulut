@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_CHAR_DRIVER_VERSION = 'f83d770de1703324c21073a4eea5657108154236'
+AESD_CHAR_DRIVER_VERSION = 'e2b26607c1def05118ee55257f74ba525f0a6d1c'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-orcun-gokbulut.git'
 #AESD_CHAR_DRIVER_SITE = 'https://github.com/cu-ecen-aeld/assignments-3-and-later-orcun-gokbulut.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
